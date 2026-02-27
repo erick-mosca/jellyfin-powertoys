@@ -35,6 +35,8 @@ public class ScheduledTask(
             return Task.CompletedTask;
         }
 
+        ValidateConfig();
+
         var cutoff = DateTime.UtcNow - Plugin.Instance!.Configuration.ExpireAfter;
         var userFilter = new Regex(Plugin.Instance!.Configuration.UsernameFilter, RegexOptions.IgnoreCase);
         var users = (
@@ -81,5 +83,34 @@ public class ScheduledTask(
             Type = TaskTriggerInfo.TriggerDaily,
             TimeOfDayTicks = 0,
         };
+    }
+
+    private void ValidateConfig()
+    {
+        var config = Plugin.Instance!.Configuration;
+
+        var configIsValid = true;
+        if (!ValidateRegexPattern(config.UsernameFilter))
+        {
+            logger.LogError("Invalid regex pattern in {Filter} ({Value})", nameof(config.UsernameFilter), config.UsernameFilter);
+            configIsValid = false;
+        }
+        if (!configIsValid)
+        {
+            throw new ArgumentException("Configuration is invalid.");
+        }
+    }
+
+    private static bool ValidateRegexPattern(string pattern)
+    {
+        try
+        {
+            Regex.IsMatch(string.Empty, pattern);
+            return true;
+        }
+        catch
+        {
+            return false;
+        }
     }
 }
