@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.1.5.1",
+        "changelog": "Merge branch 'jellytag' into jellyfin-10.9",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.1.5.1/JellyfinPowertoys.CastCurator.zip",
+        "checksum": "b6b3c650d23687827a41a9ab1918d8d1",
+        "timestamp": "2026-03-10T01:39:06Z"
+      },
+      {
         "version": "1.2.4.1",
         "changelog": "fix broken plugin logo href",
         "targetAbi": "10.11.0.0",
@@ -75,6 +83,14 @@
     "overview": "Automatically organize your library by studio.",
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
+      {
+        "version": "1.1.5.1",
+        "changelog": "Merge branch 'jellytag' into jellyfin-10.9",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.1.5.1/JellyfinPowertoys.StudioCurator.zip",
+        "checksum": "80a18d1065ef8e91dca6adabc23de75e",
+        "timestamp": "2026-03-10T01:39:06Z"
+      },
       {
         "version": "1.2.4.1",
         "changelog": "fix broken plugin logo href",
@@ -143,6 +159,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.1.5.1",
+        "changelog": "Merge branch 'jellytag' into jellyfin-10.9",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.1.5.1/JellyfinPowertoys.PrivacyMode.zip",
+        "checksum": "76d18bb6870cc397583501fa7351733d",
+        "timestamp": "2026-03-10T01:39:06Z"
+      },
+      {
         "version": "1.2.4.1",
         "changelog": "fix broken plugin logo href",
         "targetAbi": "10.11.0.0",
@@ -209,6 +233,14 @@
     "overview": "Enables playback of remote trailers from any source.",
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
+      {
+        "version": "1.1.5.1",
+        "changelog": "Merge branch 'jellytag' into jellyfin-10.9",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.1.5.1/JellyfinPowertoys.RemoteTrailers.zip",
+        "checksum": "963abe487a2de6ff6d6f7f5fce5541bb",
+        "timestamp": "2026-03-10T01:39:06Z"
+      },
       {
         "version": "1.2.4.1",
         "changelog": "fix broken plugin logo href",
@@ -277,6 +309,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.1.5.1",
+        "changelog": "Merge branch 'jellytag' into jellyfin-10.9",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.1.5.1/JellyfinPowertoys.ThumbnailPreviews.zip",
+        "checksum": "13c379a8cdfd2ed46edb45bd8ce7c438",
+        "timestamp": "2026-03-10T01:39:06Z"
+      },
+      {
         "version": "1.2.4.1",
         "changelog": "fix broken plugin logo href",
         "targetAbi": "10.11.0.0",
@@ -344,6 +384,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.1.5.1",
+        "changelog": "Merge branch 'jellytag' into jellyfin-10.9",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.1.5.1/JellyfinPowertoys.WatchHistoryJanitor.zip",
+        "checksum": "8c33d47773937c6aaa084ef23d94299d",
+        "timestamp": "2026-03-10T01:39:06Z"
+      },
+      {
         "version": "1.2.4.1",
         "changelog": "fix broken plugin logo href",
         "targetAbi": "10.11.0.0",
@@ -409,6 +457,15 @@
     "owner": "lennykean",
     "overview": "Simplified tag management. Add, remove, and manage tags right from the context menu.",
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
-    "versions": []
+    "versions": [
+      {
+        "version": "1.1.5.1",
+        "changelog": "Merge branch 'jellytag' into jellyfin-10.9",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.1.5.1/JellyfinPowertoys.JellyTag.zip",
+        "checksum": "843297be059b4dd0e70cd22f84000c69",
+        "timestamp": "2026-03-10T01:39:06Z"
+      }
+    ]
   }
 ]
