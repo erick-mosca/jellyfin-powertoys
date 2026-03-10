@@ -400,5 +400,15 @@
         "timestamp": "2025-10-13T07:13:25Z"
       }
     ]
+  },
+  {
+    "category": "General",
+    "guid": "36eb87e0-0373-423b-a547-2acb96e33430",
+    "name": "JellyTag",
+    "description": "Simplified tag management. Add, remove, and manage tags right from the context menu.",
+    "owner": "lennykean",
+    "overview": "Simplified tag management. Add, remove, and manage tags right from the context menu.",
+    "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
+    "versions": []
   }
 ]
