@@ -792,7 +792,17 @@
 
     await loadQuickTags();
 
-    window.addEventListener("hashchange", () => loadQuickTags());
+    const originalPushState = history.pushState.bind(history);
+    history.pushState = function (...args) {
+      originalPushState(...args);
+      loadQuickTags();
+    };
+    const originalReplaceState = history.replaceState.bind(history);
+    history.replaceState = function (...args) {
+      originalReplaceState(...args);
+      loadQuickTags();
+    };
+    window.addEventListener("popstate", () => loadQuickTags());
 
     startObserver();
   }
