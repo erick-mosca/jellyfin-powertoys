@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.2.7.0",
+        "changelog": "jellytag: fix pushstate bug",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.2.7.0/JellyfinPowertoys.CastCurator.zip",
+        "checksum": "9ccd6c9c04e276243a4fbede9dcec282",
+        "timestamp": "2026-03-19T19:13:32Z"
+      },
+      {
         "version": "1.2.6.1",
         "changelog": "Merge branch 'main' of https://github.com/lennykean/jellyfin-powertoys",
         "targetAbi": "10.11.0.0",
@@ -107,6 +115,14 @@
     "overview": "Automatically organize your library by studio.",
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
+      {
+        "version": "1.2.7.0",
+        "changelog": "jellytag: fix pushstate bug",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.2.7.0/JellyfinPowertoys.StudioCurator.zip",
+        "checksum": "7a86c879f7d3744a2239d733d2dbdd26",
+        "timestamp": "2026-03-19T19:13:32Z"
+      },
       {
         "version": "1.2.6.1",
         "changelog": "Merge branch 'main' of https://github.com/lennykean/jellyfin-powertoys",
@@ -207,6 +223,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.2.7.0",
+        "changelog": "jellytag: fix pushstate bug",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.2.7.0/JellyfinPowertoys.PrivacyMode.zip",
+        "checksum": "8a634ee78291f141d2fcdb2c3c96cc29",
+        "timestamp": "2026-03-19T19:13:32Z"
+      },
+      {
         "version": "1.2.6.1",
         "changelog": "Merge branch 'main' of https://github.com/lennykean/jellyfin-powertoys",
         "targetAbi": "10.11.0.0",
@@ -305,6 +329,14 @@
     "overview": "Enables playback of remote trailers from any source.",
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
+      {
+        "version": "1.2.7.0",
+        "changelog": "jellytag: fix pushstate bug",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.2.7.0/JellyfinPowertoys.RemoteTrailers.zip",
+        "checksum": "b331eadfd79b8da9e3b0ffe0e46186ee",
+        "timestamp": "2026-03-19T19:13:32Z"
+      },
       {
         "version": "1.2.6.1",
         "changelog": "Merge branch 'main' of https://github.com/lennykean/jellyfin-powertoys",
@@ -405,6 +437,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.2.7.0",
+        "changelog": "jellytag: fix pushstate bug",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.2.7.0/JellyfinPowertoys.ThumbnailPreviews.zip",
+        "checksum": "2722e6ef89d54903c41c9685f04d4c3c",
+        "timestamp": "2026-03-19T19:13:32Z"
+      },
+      {
         "version": "1.2.6.1",
         "changelog": "Merge branch 'main' of https://github.com/lennykean/jellyfin-powertoys",
         "targetAbi": "10.11.0.0",
@@ -504,6 +544,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.2.7.0",
+        "changelog": "jellytag: fix pushstate bug",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.2.7.0/JellyfinPowertoys.WatchHistoryJanitor.zip",
+        "checksum": "a6690e7a5d845f616836a536146d7a00",
+        "timestamp": "2026-03-19T19:13:32Z"
+      },
+      {
         "version": "1.2.6.1",
         "changelog": "Merge branch 'main' of https://github.com/lennykean/jellyfin-powertoys",
         "targetAbi": "10.11.0.0",
@@ -602,6 +650,14 @@
     "overview": "Simplified tag management. Add, remove, and manage tags right from the context menu.",
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
+      {
+        "version": "1.2.7.0",
+        "changelog": "jellytag: fix pushstate bug",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/lennykean/jellyfin-powertoys/releases/download/v1.2.7.0/JellyfinPowertoys.JellyTag.zip",
+        "checksum": "ea03919347528bdc1db89edb4750156a",
+        "timestamp": "2026-03-19T19:13:32Z"
+      },
       {
         "version": "1.2.6.1",
         "changelog": "Merge branch 'main' of https://github.com/lennykean/jellyfin-powertoys",
