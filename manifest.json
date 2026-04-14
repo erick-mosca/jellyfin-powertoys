@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.2.7.1",
+        "changelog": "fix(ui): match Jellyfin actionSheet button structure and fix injector call",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/erick-mosca/jellyfin-powertoys/releases/download/v1.2.7.1/JellyfinPowertoys.CastCurator.zip",
+        "checksum": "afc1b16fb71dc2aa9586cea8981f89b4",
+        "timestamp": "2026-04-14T19:58:15Z"
+      },
+      {
         "version": "1.1.7.0",
         "changelog": "jellytag: skip action sheet injection if there is no item context.",
         "targetAbi": "10.9.0.0",
@@ -123,6 +131,14 @@
     "overview": "Automatically organize your library by studio.",
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
+      {
+        "version": "1.2.7.1",
+        "changelog": "fix(ui): match Jellyfin actionSheet button structure and fix injector call",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/erick-mosca/jellyfin-powertoys/releases/download/v1.2.7.1/JellyfinPowertoys.StudioCurator.zip",
+        "checksum": "06170f9548a81a76f13345faab4e466f",
+        "timestamp": "2026-04-14T19:58:15Z"
+      },
       {
         "version": "1.1.7.0",
         "changelog": "jellytag: skip action sheet injection if there is no item context.",
@@ -239,6 +255,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.2.7.1",
+        "changelog": "fix(ui): match Jellyfin actionSheet button structure and fix injector call",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/erick-mosca/jellyfin-powertoys/releases/download/v1.2.7.1/JellyfinPowertoys.PrivacyMode.zip",
+        "checksum": "7b3369be370da614d3a02d315d197eec",
+        "timestamp": "2026-04-14T19:58:15Z"
+      },
+      {
         "version": "1.1.7.0",
         "changelog": "jellytag: skip action sheet injection if there is no item context.",
         "targetAbi": "10.9.0.0",
@@ -353,6 +377,14 @@
     "overview": "Enables playback of remote trailers from any source.",
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
+      {
+        "version": "1.2.7.1",
+        "changelog": "fix(ui): match Jellyfin actionSheet button structure and fix injector call",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/erick-mosca/jellyfin-powertoys/releases/download/v1.2.7.1/JellyfinPowertoys.RemoteTrailers.zip",
+        "checksum": "bc62b666baaf2c2bbebd9cd0b8c1ad65",
+        "timestamp": "2026-04-14T19:58:15Z"
+      },
       {
         "version": "1.1.7.0",
         "changelog": "jellytag: skip action sheet injection if there is no item context.",
@@ -469,6 +501,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.2.7.1",
+        "changelog": "fix(ui): match Jellyfin actionSheet button structure and fix injector call",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/erick-mosca/jellyfin-powertoys/releases/download/v1.2.7.1/JellyfinPowertoys.ThumbnailPreviews.zip",
+        "checksum": "95f4dd0109cac8d23509f0ebb247e4da",
+        "timestamp": "2026-04-14T19:58:15Z"
+      },
+      {
         "version": "1.1.7.0",
         "changelog": "jellytag: skip action sheet injection if there is no item context.",
         "targetAbi": "10.9.0.0",
@@ -584,6 +624,14 @@
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
       {
+        "version": "1.2.7.1",
+        "changelog": "fix(ui): match Jellyfin actionSheet button structure and fix injector call",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/erick-mosca/jellyfin-powertoys/releases/download/v1.2.7.1/JellyfinPowertoys.WatchHistoryJanitor.zip",
+        "checksum": "6457ed1610e81b338bd54892c055410f",
+        "timestamp": "2026-04-14T19:58:15Z"
+      },
+      {
         "version": "1.1.7.0",
         "changelog": "jellytag: skip action sheet injection if there is no item context.",
         "targetAbi": "10.9.0.0",
@@ -698,6 +746,14 @@
     "overview": "Simplified tag management. Add, remove, and manage tags right from the context menu.",
     "imageUrl": "https://raw.githubusercontent.com/lennykean/jellyfin-powertoys/main/logo.png",
     "versions": [
+      {
+        "version": "1.2.7.1",
+        "changelog": "fix(ui): match Jellyfin actionSheet button structure and fix injector call",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/erick-mosca/jellyfin-powertoys/releases/download/v1.2.7.1/JellyfinPowertoys.JellyTag.zip",
+        "checksum": "8b72dc3cbeee0f0f4af664ba5c030291",
+        "timestamp": "2026-04-14T19:58:15Z"
+      },
       {
         "version": "1.1.7.0",
         "changelog": "jellytag: skip action sheet injection if there is no item context.",
